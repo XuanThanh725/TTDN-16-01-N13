@@ -93,10 +93,52 @@ python3 odoo-bin.py -c odoo.conf -u all
 ```
 Người sử dụng truy cập theo đường dẫn _http://localhost:8069/_ để đăng nhập vào hệ thống.
 
-## 📝 5. License
+## 🖼️ 5. Demo sản phẩm Platform ERP
 
-© 2024 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
+> Phần này minh hoạ các chức năng tiêu biểu của hệ thống Platform ERP được xây dựng dựa trên Odoo, phục vụ công tác quản lý doanh nghiệp và thực tập doanh nghiệp cho sinh viên.
+
+<div align="center">
+
+### 🔹 Hình 5.1: Demo phân hệ CRM – Quản lý cơ hội kinh doanh
+<img src="docs/images/cntt1.png" alt="CRM Pipeline Demo" width="900"/>
+
+</div>
+
+**Công dụng:**
+- Quản lý **pipeline bán hàng** theo các giai đoạn (New, Qualified, Proposition, Won).
+- Theo dõi **cơ hội kinh doanh (Opportunity)** và giá trị hợp đồng.
+- Hỗ trợ quản trị quy trình bán hàng, đánh giá hiệu suất kinh doanh.
+- Giúp giảng viên và sinh viên mô phỏng quy trình CRM trong doanh nghiệp thực tế.
 
 ---
+
+<div align="center">
+
+### 🔹 Hình 5.2: Demo phân hệ Nhân sự – Quản lý nhân viên
+<img src="docs/images/cntt2.png" alt="Employees Management Demo" width="900"/>
+
+</div>
+
+**Công dụng:**
+- Quản lý thông tin **nhân viên**, phòng ban và vị trí công việc.
+- Hỗ trợ phân loại nhân sự theo từng bộ phận (Sales, IT, HR, Customer Service…).
+- Phục vụ cho việc quản lý nguồn lực trong doanh nghiệp và bài toán phân công công việc.
+- Giúp sinh viên làm quen với hệ thống quản trị nhân sự trong ERP.
+
+---
+
+<div align="center">
+
+### 🔹 Hình 5.3: Demo phân hệ CRM Follow-up – Theo dõi hoạt động chăm sóc khách hàng
+<img src="docs/images/cntt3.png" alt="CRM Follow-up Demo" width="650"/>
+
+</div>
+
+**Công dụng:**
+- Theo dõi các hoạt động chăm sóc khách hàng như **Email, Gọi điện, Họp**.
+- Nhắc việc và quản lý tiến độ xử lý công việc liên quan đến khách hàng.
+- Tăng hiệu quả chăm sóc khách hàng và khả năng chuyển đổi cơ hội kinh doanh.
+- Mô phỏng quy trình làm việc thực tế của doanh nghiệp trong hệ thống ERP.
+
 
     
